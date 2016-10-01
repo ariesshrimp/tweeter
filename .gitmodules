@@ -1,0 +1,6 @@
+[submodule "tweeter--mobile"]
+	path = tweeter--mobile
+	url = https://github.com/joefraley/tweeter--mobile.git
+[submodule "tweeter--desktop"]
+	path = tweeter--desktop
+	url = https://github.com/joefraley/tweeter--desktop.git
