@@ -7,3 +7,6 @@
 [submodule "tweeter--web"]
 	path = tweeter--web
 	url = https://github.com/joefraley/tweeter--web.git
+[submodule "tweeter--lambda"]
+	path = tweeter--lambda
+	url = https://github.com/joefraley/tweeter--lambda.git
